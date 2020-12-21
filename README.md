@@ -3,7 +3,7 @@
 
 1.1 Objetivos Generales
  
-.Probar la ley de Ohm y las Leyes de Kirchhoff en circuitos resistivo mixto
+.Probar la ley de Ohm y las Leyes de Kirchhoff en circuitos resistivo mixtos
   
 .A partir de la grafica hallar experimentalmente el LVK y LVC.
   
